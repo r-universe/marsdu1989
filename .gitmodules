@@ -1,105 +1,64 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CATT"]
 	path = CATT
 	url = https://github.com/cran/CATT
-	shallow = true
-	registered = true
 [submodule "con2aqi"]
 	path = con2aqi
 	url = https://github.com/cran/con2aqi
-	shallow = true
-	registered = true
 [submodule "CsChange"]
 	path = CsChange
 	url = https://github.com/cran/CsChange
-	shallow = true
-	registered = true
 [submodule "DTAXG"]
 	path = DTAXG
 	url = https://github.com/cran/DTAXG
-	shallow = true
-	registered = true
 [submodule "easyAHP"]
 	path = easyAHP
 	url = https://github.com/cran/easyAHP
-	shallow = true
-	registered = true
 [submodule "easyDes"]
 	path = easyDes
 	url = https://github.com/cran/easyDes
-	shallow = true
-	registered = true
 [submodule "FlexScan"]
 	path = FlexScan
 	url = https://github.com/cran/FlexScan
-	shallow = true
-	registered = true
 [submodule "gamRR"]
 	path = gamRR
 	url = https://github.com/cran/gamRR
-	shallow = true
-	registered = true
 [submodule "Gini"]
 	path = Gini
 	url = https://github.com/cran/Gini
-	shallow = true
-	registered = true
 [submodule "HSEtest"]
 	path = HSEtest
 	url = https://github.com/cran/HSEtest
-	shallow = true
-	registered = true
 [submodule "IDCard"]
 	path = IDCard
 	url = https://github.com/cran/IDCard
-	shallow = true
-	registered = true
 [submodule "nomogramEx"]
 	path = nomogramEx
 	url = https://github.com/cran/nomogramEx
-	shallow = true
-	registered = true
 [submodule "numKM"]
 	path = numKM
 	url = https://github.com/cran/numKM
-	shallow = true
-	registered = true
 [submodule "reportReg"]
 	path = reportReg
 	url = https://github.com/cran/reportReg
-	shallow = true
-	registered = true
 [submodule "reportROC"]
 	path = reportROC
 	url = https://github.com/cran/reportROC
-	shallow = true
-	registered = true
 [submodule "RHSDB"]
 	path = RHSDB
 	url = https://github.com/cran/RHSDB
-	shallow = true
-	registered = true
 [submodule "rocNIT"]
 	path = rocNIT
 	url = https://github.com/cran/rocNIT
-	shallow = true
-	registered = true
 [submodule "SEofM"]
 	path = SEofM
 	url = https://github.com/cran/SEofM
-	shallow = true
-	registered = true
 [submodule "stddiff"]
 	path = stddiff
 	url = https://github.com/cran/stddiff
-	shallow = true
-	registered = true
 [submodule "VIMean"]
 	path = VIMean
 	url = https://github.com/cran/VIMean
-	shallow = true
-	registered = true
