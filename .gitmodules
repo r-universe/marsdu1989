@@ -5,27 +5,15 @@
 [submodule "CATT"]
 	path = CATT
 	url = https://github.com/cran/CATT
-[submodule "con2aqi"]
-	path = con2aqi
-	url = https://github.com/cran/con2aqi
 [submodule "CsChange"]
 	path = CsChange
 	url = https://github.com/cran/CsChange
 [submodule "DTAXG"]
 	path = DTAXG
 	url = https://github.com/cran/DTAXG
-[submodule "easyAHP"]
-	path = easyAHP
-	url = https://github.com/cran/easyAHP
-[submodule "easyDes"]
-	path = easyDes
-	url = https://github.com/cran/easyDes
 [submodule "FlexScan"]
 	path = FlexScan
 	url = https://github.com/cran/FlexScan
-[submodule "gamRR"]
-	path = gamRR
-	url = https://github.com/cran/gamRR
 [submodule "Gini"]
 	path = Gini
 	url = https://github.com/cran/Gini
@@ -35,30 +23,42 @@
 [submodule "IDCard"]
 	path = IDCard
 	url = https://github.com/cran/IDCard
+[submodule "RHSDB"]
+	path = RHSDB
+	url = https://github.com/cran/RHSDB
+[submodule "SEofM"]
+	path = SEofM
+	url = https://github.com/cran/SEofM
+[submodule "VIMean"]
+	path = VIMean
+	url = https://github.com/cran/VIMean
+[submodule "con2aqi"]
+	path = con2aqi
+	url = https://github.com/cran/con2aqi
+[submodule "easyAHP"]
+	path = easyAHP
+	url = https://github.com/cran/easyAHP
+[submodule "easyDes"]
+	path = easyDes
+	url = https://github.com/cran/easyDes
+[submodule "gamRR"]
+	path = gamRR
+	url = https://github.com/cran/gamRR
 [submodule "nomogramEx"]
 	path = nomogramEx
 	url = https://github.com/cran/nomogramEx
 [submodule "numKM"]
 	path = numKM
 	url = https://github.com/cran/numKM
-[submodule "reportReg"]
-	path = reportReg
-	url = https://github.com/cran/reportReg
 [submodule "reportROC"]
 	path = reportROC
 	url = https://github.com/cran/reportROC
-[submodule "RHSDB"]
-	path = RHSDB
-	url = https://github.com/cran/RHSDB
+[submodule "reportReg"]
+	path = reportReg
+	url = https://github.com/cran/reportReg
 [submodule "rocNIT"]
 	path = rocNIT
 	url = https://github.com/cran/rocNIT
-[submodule "SEofM"]
-	path = SEofM
-	url = https://github.com/cran/SEofM
 [submodule "stddiff"]
 	path = stddiff
 	url = https://github.com/cran/stddiff
-[submodule "VIMean"]
-	path = VIMean
-	url = https://github.com/cran/VIMean
